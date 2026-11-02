@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me
-                                       "The noblest pleasure is the joy of understanding -Leonardo Da Vinci"
+                                    "The noblest pleasure is the joy of understanding -Leonardo Da Vinci"
                                         
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
